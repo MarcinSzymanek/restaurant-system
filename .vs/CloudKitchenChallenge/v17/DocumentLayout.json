@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\cloudkitchenchallenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\cloudkitchenchallenge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\kitchensystem\\kitchensystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\kitchensystem\\kitchensystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\kitchensystem\\storage\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\kitchensystem\\storage\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\kitchensystem\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\kitchensystem\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\logging\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\logging\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\logging\\jsonlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\logging\\jsonlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\logging\\iactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\logging\\iactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\logging\\multilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\logging\\multilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\models\\foodorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\models\\foodorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\kitchensystem\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\kitchensystem\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\kitchensystem\\storage\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\kitchensystem\\storage\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23661BE-F698-4B37-B8DD-AB5C5E01617D}|Solution Items{C23661BE-F698-4B37-B8DD-AB5C5E01617D}|C:\\Users\\nastr\\source\\repos\\restaurant-system\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C23661BE-F698-4B37-B8DD-AB5C5E01617D}|Solution Items{C23661BE-F698-4B37-B8DD-AB5C5E01617D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0400EDB3-1050-46EB-8B49-EC3058A16815}|CKTests\\CKTests.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cktests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0400EDB3-1050-46EB-8B49-EC3058A16815}|CKTests\\CKTests.csproj|solutionrelative:cktests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\cloudkitchenchallenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\cloudkitchenchallenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|c:\\users\\nastr\\source\\repos\\restaurant-system\\cloudkitchenchallenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E42B279-E3F7-45B5-AC1B-B0A08BFCD56D}|CloudKitchenChallenge\\CloudKitchenChallenge.csproj|solutionrelative:cloudkitchenchallenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FoodOrder.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Models\\FoodOrder.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\Models\\FoodOrder.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Models\\FoodOrder.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\Models\\FoodOrder.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:12:30.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Storage\\StorageController.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\KitchenSystem\\Storage\\StorageController.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Storage\\StorageController.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\KitchenSystem\\Storage\\StorageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:03:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultiLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\MultiLogger.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\Logging\\MultiLogger.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\MultiLogger.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\Logging\\MultiLogger.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:30:06.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\JsonLogger.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\Logging\\JsonLogger.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\JsonLogger.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\Logging\\JsonLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:29:01.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitchenSystem.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\KitchenSystem.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\KitchenSystem\\KitchenSystem.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\KitchenSystem.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\KitchenSystem\\KitchenSystem.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewCUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:37:25.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\.editorconfig",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\.editorconfig",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\.editorconfig",
+              "RelativeToolTip": "CloudKitchenChallenge\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-06T13:35:15.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\Logging\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\ConsoleLogger.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\Logging\\ConsoleLogger.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:23:54.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloudKitchenChallenge",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "RelativeToolTip": "CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T23:17:24.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IActionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\IActionLogger.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\Logging\\IActionLogger.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Logging\\IActionLogger.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\Logging\\IActionLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:34:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actions.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Actions.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\KitchenSystem\\Actions.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Actions.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\KitchenSystem\\Actions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:38:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Storage\\Storage.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\KitchenSystem\\Storage\\Storage.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Storage\\Storage.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\KitchenSystem\\Storage\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:51:21.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\Program.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Program.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:01:22.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Storage\\IStorage.cs",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\KitchenSystem\\Storage\\IStorage.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\KitchenSystem\\Storage\\IStorage.cs",
+              "RelativeToolTip": "CloudKitchenChallenge\\KitchenSystem\\Storage\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:50:44.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CloudKitchenChallenge.csproj",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "RelativeToolTip": "CloudKitchenChallenge\\CloudKitchenChallenge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T23:19:59.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CKTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "CKTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CKTests\\MSTestSettings.cs",
+              "RelativeToolTip": "CKTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:16:53.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CloudKitchenChallenge\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\CloudKitchenChallenge\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CloudKitchenChallenge\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T23:16:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\nastr\\source\\repos\\restaurant-system\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-05T23:14:57.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

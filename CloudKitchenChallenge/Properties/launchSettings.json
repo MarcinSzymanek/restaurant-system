@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "CloudKitchenChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "500000 4000000 8000000",
+      "environmentVariables": {
+        "SERVER_TEST": "true"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "commandLineArgs": "500000 4000000 8000000",
+      "environmentVariables": {
+        "UTC_OFFSET": "-2",
+        "SERVER_TEST": "true"
+      }
+    }
+  }
+}
